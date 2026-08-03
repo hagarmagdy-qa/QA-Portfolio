@@ -1,4 +1,4 @@
-5++Web application testing projects
+Web application testing projects
 SauceDemo Test Cases
 Overview
 This folder contains manual test cases for the SauceDemo web application.
