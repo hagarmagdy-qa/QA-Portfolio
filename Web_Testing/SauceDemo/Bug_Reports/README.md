@@ -45,7 +45,7 @@ The item carried over from the previous user's session.
 
 ### Evidence
 
-![Cart retains previous user's item after logout](../Screenshots/01_cart_persists_across_users.png)
+![Cart retains previous user's item after logout](Screenshots/01_cart_persists_across_users.png)
 
 **Environment:** Chrome, Windows 11
 
@@ -84,7 +84,7 @@ is shown — the images load successfully, but they are the wrong asset.
 
 ### Evidence
 
-![All products showing the same image](../Screenshots/02_problem_user_duplicate_images.png)
+![All products showing the same image](Screenshots/02_problem_user_duplicate_images.png)
 
 **Environment:** Chrome, Windows 11
 
