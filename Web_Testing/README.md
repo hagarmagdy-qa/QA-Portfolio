@@ -1,18 +1,7 @@
-Web application testing projects
-SauceDemo Test Cases
-Overview
-This folder contains manual test cases for the SauceDemo web application.
+# Web Application Testing
 
-Scope
-Login functionality
-Product sorting and filtering
-Cart operations
-Checkout process
-Test Types
-Positive test cases
-Negative test cases
-Files
-SauceDemo_TestCases.xlsx (Main test cases)
-Tools Used
-Google Sheets
-Manual Testing
+Manual functional and regression testing of web applications.
+
+| Project | Application | Artefacts |
+|---|---|---|
+| [SauceDemo](SauceDemo) | saucedemo.com | 11 test scenarios · 26 test cases |
